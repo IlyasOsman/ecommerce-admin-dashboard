@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+## PHASE 1 PROJECT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/IlyasOsman/)
 
-## Available Scripts
+### 0. Introduction
 
-In the project directory, you can run:
+The **E-commerce Admin-Dashboard** website application is a [Moringa School](https://moringaschool.com/) phase 2 react.js project.
 
-### `npm start`
+### 1. Usage of Application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A user can access and do the following:
+<br/> 
+&check; Get earnings
+<br/>
+&check; Get weekly/monthly/yearly statistics through
+<br/>
+     &nbsp; &nbsp; &check; Bar charts<br />
+     &nbsp; &nbsp; &check; Line Charts<br />
+     &nbsp; &nbsp; &check; SparkLine chars<br/>
+&check; View orders status<br/>
+&check; View employees information<br/>
+&check; View customers details<br/>
+&check; View calendar and add todos<br/>
+&check; Visualize statics in graphs<br/>
+&check; Can change to theme<br/>
+&check; Can change to black or light mode<br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2. Technologies
 
-### `npm test`
+The following technologies was used to build the front-end of applications <br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+&check; React.js <br/>
+&check; Tailwind <br/>
+&check; Syncfusion UI <br/>
 
-### `npm run build`
+### 3. [Live site](https://ilyasosman.github.io/cryptoPesa-website/)
+&nbsp; Here [www.cryptopesamarket.com](https://ilyasosman.github.io/cryptoPesa-website/) is cryptopesa live website accessible to the public<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 4. Features
+&check; The website has the following. <br/>
+&nbsp; &nbsp; &check; A Dark/Light mode.<br/>
+&nbsp; &nbsp; &check; Mobile responsive.<br/>
+&nbsp; &nbsp; &check; A theme color.<br/>
+&nbsp; &nbsp; &check; A Calendar app.<br/>
+&nbsp; &nbsp; &check; A charts.<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 6. LICENSE
+&check; Here [MIT](./MIT) is project license.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 7. Author 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ &check; Ilyas Ali
+        <br/>
+        &nbsp; &nbsp; &check; [LinkedIn](https://www.linkedin.com/in/ilyas-)
+        <br/>
+        &nbsp; &nbsp; &check; [Twitter](https://twitter.com/iOs__man)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>Like project? Give me a star.</p>
