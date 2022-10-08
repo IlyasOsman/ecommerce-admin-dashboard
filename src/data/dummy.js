@@ -5434,3 +5434,285 @@ export const PyramidData = [
   { x: 'Fruits', y: 520, text: '520 cal' },
   { x: 'Bread, Rice, Pasta', y: 930, text: '930 cal' },
 ];
+
+export const newsApi = {
+  "category": "business",
+  "data": [
+    {
+      "author": "Ria Kapoor",
+      "content": "Prices of CNG and piped cooking gas have been increased by ₹3 each in Delhi. CNG rate has been increased to ₹78.61 per kg from ₹75.61 per kg. Meanwhile, price of Piped Natural Gas (PNG) has been increased to ₹53.59 per standard cubic metre from ₹50.59 per standard cubic metre. Prices have also been raised in Noida and Gurugram.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "b6706fc741354308a62eda52ad62483d",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665196878991_464.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/policy/economy-policy/cng-piped-cooking-gas-prices-hiked-by-rs-3-in-delhi-9293941.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:42 am",
+      "title": "CNG, piped cooking gas prices hiked by ₹3 in Delhi",
+      "url": "https://www.inshorts.com/en/news/cng-piped-cooking-gas-prices-hiked-by-₹3-in-delhi-1665198778981"
+    },
+    {
+      "author": "Ankush Verma",
+      "content": "Commenting on India buying oil from Russia amid the war in Ukraine, Union Minister of Petroleum and Natural Gas Hardeep Singh Puri said, \"India will buy oil from wherever it has to,\" adding that the government has a moral duty to provide energy to people. Puri further said India hasn't been told by anyone to stop buying oil from Russia.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "59d12947aba848ed90a15ee9ec39d3da",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665200324696_753.jpg?",
+      "readMoreUrl": "https://twitter.com/ANI/status/1578577635734495233?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:32 am",
+      "title": "India will buy oil from wherever it has to: Govt on imports from Russia amid Ukraine war",
+      "url": "https://www.inshorts.com/en/news/india-will-buy-oil-from-wherever-it-has-to-govt-on-imports-from-russia-amid-ukraine-war-1665201738251"
+    },
+    {
+      "author": "Hiral Goyal",
+      "content": "Xiaomi has denied a report claiming that the Chinese electronics maker may move its India operations to Pakistan after the government froze its assets worth ₹5,551.27 crore. Xiaomi said the report is \"completely false and baseless\". The company added, \"99% of our smartphones & 100% of our TVs are made in India. We'll take all measures to protect our reputation.\"",
+      "date": "07 Oct 2022,Friday",
+      "id": "03cd575ed73f41ae9dd629102e84098e",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665131476670_705.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/business/xiaomi-moving-its-india-operations-to-pakistan-chinese-mobile-maker-responds-101665129659207-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "02:43 pm",
+      "title": "Completely false: Xiaomi on report of moving India operations to Pakistan",
+      "url": "https://www.inshorts.com/en/news/completely-false-xiaomi-on-report-of-moving-india-operations-to-pakistan-1665133998365"
+    },
+    {
+      "author": "Anmol Sharma",
+      "content": "The Department of Investment and Public Asset Management on Friday invited expressions of interest (EoIs) from potential bidders for strategic divestment of specified government and LIC stakes in IDBI Bank along with transfer of management control. The government and LIC will together divest a 60.72% stake in the lender. Centre will divest a 30.48% stake while LIC will offload 30.24%.",
+      "date": "07 Oct 2022,Friday",
+      "id": "64e7cf1eb8c9400982ca24545c7030b4",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665162771515_37.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/govt-and-lic-to-divest-60-72-stake-in-idbi-bank-9291861.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:02 pm",
+      "title": "Govt and LIC together to divest 60.72% stake in IDBI Bank",
+      "url": "https://www.inshorts.com/en/news/govt-and-lic-together-to-divest-6072-stake-in-idbi-bank-1665163940270"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Adidas on Thursday said it has put its partnership with rapper Kanye West's Yeezy brand under review. The decision was taken \"after repeated efforts to privately resolve the situation\", the company said, adding, \"We...recognise that...successful partnerships are rooted in mutual respect and shared values.\" Kanye, now known as Ye, responded to the news and said Adidas \"stole\" his designs.",
+      "date": "07 Oct 2022,Friday",
+      "id": "1ac4c9a4a5d84398b6d3a3bebfaba2bf",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665134802773_280.jpg?",
+      "readMoreUrl": "https://www.reuters.com/business/retail-consumer/adidas-puts-partnership-with-kanye-west-under-review-2022-10-06/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "03:03 pm",
+      "title": "Adidas puts partnership with Kanye West's Yeezy under review",
+      "url": "https://www.inshorts.com/en/news/adidas-puts-partnership-with-kanye-wests-yeezy-under-review-1665135220392"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "After Elon Musk decided to revive his Twitter offer earlier this week, Tesla shares fell by 1.8%. The stock has lost 34% since the Tesla CEO first disclosed a stake in Twitter on April 4. Musk has already offloaded over $15 billion of Twitter's stock this year and according to Bloomberg, he holds 465 million shares as of August 9.",
+      "date": "07 Oct 2022,Friday",
+      "id": "f689c8f3c69c4c789e2a7a356fd54986",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665140390345_58.jpg?",
+      "readMoreUrl": "https://www.cnbctv18.com/business/companies/tesla-share-price-fall-over-30-percent-after-elon-musk-twitter-deal-announcement-14887861.htm/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "04:54 pm",
+      "title": "Tesla shares fall nearly 2% after Elon Musk revives Twitter deal",
+      "url": "https://www.inshorts.com/en/news/after-elon-musk-revived-twitter-deal-tesla-shares-fell-nearly-2-1665141848385"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "The Karnataka High Court on Thursday declined to lift a freeze on Xiaomi's assets worth $676 million. Xiaomi denied any wrongdoing and said it \"is severely disproportionate and has effectively halted the operations\" in India. Enforcement Directorate had in April ordered the seizure of Xiaomi India's assets for illegally remitting foreign exchange outside India under the guise of royalty payments.",
+      "date": "07 Oct 2022,Friday",
+      "id": "11faf7c86ceb4ef09da96e4eef9c2306",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665127356653_768.jpg?",
+      "readMoreUrl": null,
+      "time": "02:20 pm",
+      "title": "India operations effectively halted: Xiaomi to HC on $676-mn assets freeze",
+      "url": "https://www.inshorts.com/en/news/india-operations-effectively-halted-xiaomi-to-hc-on-$676mn-assets-freeze-1665132653732"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Samsung Electronics reported a 32% drop in quarterly operating earnings on Friday. Its estimated profit fell to 10.8 trillion won ($7.67 billion) in July-September, which is the first year-on-year decline in nearly three years, the company said in a preliminary earnings release. The slump was driven by a fall in demand for electronic devices and the chips that power them.",
+      "date": "07 Oct 2022,Friday",
+      "id": "6c462e3ac12a4135929a6573d0810687",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665117144522_170.jpg?",
+      "readMoreUrl": "https://www.reuters.com/technology/samsung-elec-q3-profit-likely-fell-32-demand-slumped-downturn-2022-10-06/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:52 am",
+      "title": "Samsung's quarterly profit falls for first time in nearly 3 years",
+      "url": "https://www.inshorts.com/en/news/samsungs-quarterly-profit-falls-for-first-time-in-nearly-3-years-1665123731625"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "US Department of Defense has blacklisted 13 more Chinese companies, alleging they have ties with China's military. DJI Technology, the world's largest manufacturer of consumer drones, and BGI Genomics are among the firms that have been blacklisted. The companies have been added to a list that bars US entities from buying or selling publicly traded securities in target companies.",
+      "date": "07 Oct 2022,Friday",
+      "id": "83c8c945e73f45edb457dea1d11e3314",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665110131788_342.jpg?",
+      "readMoreUrl": "https://www.reuters.com/business/us-adds-chinas-bgi-genomics-drone-maker-dji-investment-ban-2022-10-07/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:45 am",
+      "title": "US blacklists 13 more firms over alleged ties to China's military",
+      "url": "https://www.inshorts.com/en/news/us-blacklists-13-more-firms-over-alleged-ties-to-chinas-military-1665119753096"
+    },
+    {
+      "author": "Purnima Rajput",
+      "content": "Google is planning to invest $690 million in Japan through 2024, its CEO Sundar Pichai told Nikkei on Friday. Google will open a data centre in Chiba Prefecture near Tokyo in 2023, its first in Japan, for faster access to Google's services. Japan will be the third data centre location in Asia after Taiwan and Singapore.",
+      "date": "07 Oct 2022,Friday",
+      "id": "202c0426dd0f46bf99f006fb33044c08",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665135449026_52.jpg?",
+      "readMoreUrl": "https://www.reuters.com/technology/google-invest-690-mln-japan-ceo-pichai-tells-nikkei-2022-10-07/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "04:57 pm",
+      "title": "Google to invest $690 million in Japan, open its 1st data centre in the country",
+      "url": "https://www.inshorts.com/en/news/google-to-invest-$690-million-in-japan-open-its-1st-data-centre-in-the-country-1665142021744"
+    },
+    {
+      "author": "Hiral Goyal",
+      "content": "The RBI has released a concept note on central bank digital currency, announcing plans to commence a pilot launch of Digital Rupee or 'e₹' soon. A large-scale pilot will be conducted, with users from different income levels, literacy levels, regions, genders and age groups. The Digital Rupee will be designed in a manner that's least disruptive to existing financial system.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "e1ca8d97814144079675933bedc4b602",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665210969926_767.jpg?",
+      "readMoreUrl": "https://www.timesnownews.com/business-economy/personal-finance/what-is-central-bank-digital-currency-how-does-rbi-plan-to-introduce-e-in-india-article-94715348/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "12:49 pm",
+      "title": "How does the RBI plan to introduce Digital Rupee or 'e₹' in India?",
+      "url": "https://www.inshorts.com/en/news/how-does-the-rbi-plan-to-introduce-digital-rupee-or-e₹-in-india-1665213558633"
+    },
+    {
+      "author": "Purnima Rajput",
+      "content": "RattanIndia Enterprises has acquired Micromax Co-founder Rahul Sharma's electric vehicle (EV) manufacturer Revolt Motors for an undisclosed amount. Earlier, the company acquired a 33.8% stake in the EV startup and had an option of increasing its shareholding. Revolt Motors has a manufacturing facility in Haryana and 29 dealerships across the country.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "cd5f7e76b5b24c54bfa00fadcb86e382",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665206105832_810.jpg?",
+      "readMoreUrl": "https://www.financialexpress.com/express-mobility/rattan-india-acquires-revolt-motors/2703086/lite/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:28 am",
+      "title": "RattanIndia buys Micromax Co-founder Rahul Sharma's Revolt Motors",
+      "url": "https://www.inshorts.com/en/news/rattanindia-buys-micromax-cofounder-rahul-sharmas-revolt-motors-1665208713888"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "After floating a possible deal to end the Russia-Ukraine war, Tesla CEO Elon Musk has now suggested recommendations to end tensions between China and Taiwan. \"Figure out a special administrative zone for Taiwan that is reasonably palatable...probably won't make everyone happy,\" Musk said. Notably, Tesla's electric car plant in Shanghai accounted for about half of its global deliveries last year.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "b46281ca3745483e970842d953d42ba3",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665205754876_292.jpg?",
+      "readMoreUrl": "https://www.cnbctv18.com/world/now-elon-musk-offers-proposal-to-resolve-china-taiwan-tensions-14894571.htm/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:13 am",
+      "title": "Tesla CEO Elon Musk offers proposal to resolve China-Taiwan issues",
+      "url": "https://www.inshorts.com/en/news/tesla-ceo-elon-musk-offers-proposal-to-resolve-chinataiwan-issues-1665207805603"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "The European Directorate for the Quality of Medicines & HealthCare (EDQM) has listed out deficiencies related to Biocon's API (active pharma ingredient or bulk drug) manufacturing site in Bengaluru after an inspection, the company said in a filing on Thursday. The Bengaluru-headquartered company said that while no deficiencies were marked as critical, one was listed as major.",
+      "date": "07 Oct 2022,Friday",
+      "id": "42d42a7da6fc4656bb6df4cb5daf2a25",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665123546870_944.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/europe-points-out-deficiencies-at-biocons-bengaluru-bulk-drug-plant-9288621.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:57 am",
+      "title": "Deficiencies at Biocon's Bengaluru drug plant listed by European body",
+      "url": "https://www.inshorts.com/en/news/deficiencies-at-biocons-bengaluru-drug-plant-listed-by-european-body-1665124028787"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "India's foreign exchange reserves fell by $4.854 billion to $532.66 billion for the week ended September 30, Reserve Bank of India data showed. This is the ninth straight weekly drop and the lowest since July 24, 2020. The decline was due to a dip in foreign currency assets which decreased to $472.81 billion from $477.21 in the previous week.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "e1f04b5193cf421fa3644af72b3908c8",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665201706626_393.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/forex-reserves-fall-to-lowest-level-since-july-2020-drops-for-ninth-week-9293281.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:16 am",
+      "title": "India’s forex reserves record lowest level since July 2020",
+      "url": "https://www.inshorts.com/en/news/indias-forex-reserves-record-lowest-level-since-july-2020-1665207992099"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "International Monetary Fund (IMF) chief Kristalina Georgieva said that the global economy is moving from a world of relative predictability to one of greater uncertainty. She warned that about one-third of the world economy will experience at least two consecutive quarters of contraction. IMF in July slashed its growth forecast for this year to 3.2% and to 2.9% for 2023.",
+      "date": "07 Oct 2022,Friday",
+      "id": "1bfa4d45c1be467cba38f47ebdc3704d",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665124928478_346.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/global-economy-is-moving-from-a-world-of-relative-predictability-to-one-of-greater-uncertainty-imf-md-9289551.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "01:39 pm",
+      "title": "Global economy moving towards greater uncertainty: IMF chief",
+      "url": "https://www.inshorts.com/en/news/global-economy-moving-towards-greater-uncertainty-imf-chief-1665130192827"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Dabur India's stock traded lower on Friday, a day after the FMCG major said in its business update for the September quarter that the geopolitical environment continued to have a high inflationary impact on its business. Dabur said its operating margin could be 150-200 basis points lower year-on-year. Its shares were trading 1.87% lower on the BSE at 11:10 am.",
+      "date": "07 Oct 2022,Friday",
+      "id": "e6ae56f6b377435ebc61d97bdf4a1711",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665122092223_564.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/stocks/dabur-stock-under-pressure-after-business-update-but-motial-oswal-sees-22-upside-9289241.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "01:46 pm",
+      "title": "Dabur India stock falls after it expects Q2 margin to be hit",
+      "url": "https://www.inshorts.com/en/news/dabur-india-stock-falls-after-it-expects-q2-margin-to-be-hit-1665130605388"
+    },
+    {
+      "author": "Purnima Rajput",
+      "content": "Walmart is planning to fire 1,458 workers at the e-commerce fulfilment centre in Atlanta. The company's spokesperson, Scott Pope, said affected workers are being assisted with paid job searches and some employees have been re-hired at other Walmart stores. Earlier on Thursday, Walmart announced that it would acquire a robotics and automation firm, Alert Innovation, to help speed up deliveries.",
+      "date": "07 Oct 2022,Friday",
+      "id": "aee0e8b5c0ee427e9662ef8a7e8914ad",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665128240302_643.jpg?",
+      "readMoreUrl": "https://www.reuters.com/business/walmart-lay-off-about-1500-workers-atlanta-fulfillment-center-2022-10-06/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "02:28 pm",
+      "title": "US' largest retailer Walmart to lay off 1,458 workers in Atlanta",
+      "url": "https://www.inshorts.com/en/news/us-largest-retailer-walmart-to-lay-off-1458-workers-in-atlanta-1665133103905"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Billionaire Chairman Anil Agarwal's Vedanta Resources Limited will seek the approval of Vedanta Limited's shareholders on October 11 on a company plan to move money out of its reserves and into its balance sheet. The move will increase the probability that the funds will be used for dividends. London-based Vedanta Resources uses dividends from its Indian unit to repay debts.",
+      "date": "07 Oct 2022,Friday",
+      "id": "2eeaa18f28844ac39e014bdfee4d9310",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665134007495_201.jpg?",
+      "readMoreUrl": "https://www.bqprime.com/business/billionaire-faces-key-vote-for-plan-to-tap-vedanta-cash-reserves?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "03:03 pm",
+      "title": "Vedanta Chairman to seek shareholders' nod to use firm's cash reserves",
+      "url": "https://www.inshorts.com/en/news/vedanta-chairman-to-seek-shareholders-nod-to-use-firms-cash-reserves-1665135224440"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "A day after Bharti Airtel launched its 5G services in eight cities across India, for which customers will have to pay as per their existing 4G plan, its stock gained on Friday. Global brokerage firm, Morgan Stanley has an 'overweight' stance on the company and expects a further 4.6% upside in its shares to ₹825 apiece from Thursday's closing price.",
+      "date": "07 Oct 2022,Friday",
+      "id": "8018c75e917942cabba7ad7825e22033",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665137618073_318.jpg?",
+      "readMoreUrl": "https://www.cnbctv18.com/telecom/as-bharti-airtel-rolls-out-5g-plus-in-8-cities-morgan-stanley-expects-telcos-to-hike-4g-tariffs-14887491.htm/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "04:52 pm",
+      "title": "Bharti Airtel stock gains after rollout of 5G services in 8 cities",
+      "url": "https://www.inshorts.com/en/news/bharti-airtel-stock-gains-after-rollout-of-5g-services-in-8-cities-1665141743092"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Panacea Biotec Limited Founder and Chairman Soshil Kumar Jain passed away on Friday. Jain, 89, had been hospitalised for the past 10 days and suffered a cardiac arrest on Friday. Jain founded the company in 1984 as Panacea Drugs Private Limited. Its name was changed to Panacea Biotec when it was publicly listed on the stock exchanges in September 1995.\n",
+      "date": "08 Oct 2022,Saturday",
+      "id": "a2163e3d6a2c46769b2fc53a688fc387",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665199605524_873.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/panacea-biotec-founder-and-chairman-soshil-kumar-jain-dies-9293071.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:01 am",
+      "title": "Panacea Biotech Founder & Chairman Soshil Kumar Jain dies at 89",
+      "url": "https://www.inshorts.com/en/news/panacea-biotech-founder-chairman-soshil-kumar-jain-dies-at-89-1665203493632"
+    },
+    {
+      "author": "Purnima Rajput",
+      "content": "Flipkart spent $1.1 billion in cash between February 1 and July 31 this year, parent company Walmart's filings with the US Securities and Exchange Commission showed. The company's cash and cash equivalents fell from $2.2 billion at the end of January 2022 to $1.1 billion at the end of July 2022. Flipkart's spending was on mergers, acquisitions and capital expenditure.",
+      "date": "07 Oct 2022,Friday",
+      "id": "de973f1246884574a1bfc5a6ea91d3ff",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665139998431_620.jpg?",
+      "readMoreUrl": "https://www.bqprime.com/business/flipkart-burns-11-billion-cash-in-six-months?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "05:16 pm",
+      "title": "Flipkart spent $1.1 billion in 6 months: Walmart filings",
+      "url": "https://www.inshorts.com/en/news/flipkart-spent-$11-billion-in-6-months-walmart-filings-1665143165236"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Suzlon Energy appointed Vinod R Tanti as the Chairman and Managing Director (CMD) with immediate effect for a period of three years. Vinod Tanti is the younger brother of Suzlon Founder Tulsi Tanti, who passed away due to a cardiac arrest last week. Vinod Tanti was earlier the Wholetime Director and COO at Suzlon and has resigned from these posts.",
+      "date": "08 Oct 2022,Saturday",
+      "id": "4bb07f3c542e4b7b93f1da43c3ad05b9",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/8_sat/img_1665199147221_481.jpg?",
+      "readMoreUrl": "https://www.financialexpress.com/industry/vinod-tanti-appointed-suzlon-cmd/2703656/lite/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:58 am",
+      "title": "Suzlon Energy appoints Vinod R Tanti as CMD for 3 years",
+      "url": "https://www.inshorts.com/en/news/suzlon-energy-appoints-vinod-r-tanti-as-cmd-for-3-years-1665199683534"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Credit Suisse on Friday said it will buy back up to 3 billion Swiss francs ($3 billion) of debt to reassure investors. The move trims the debt burden of the Switzerland-headquartered bank even as its shares touched a record low on October 3 to 3.52 Swiss francs ($3.7). The bank has lost about 60% of its market value this year. ",
+      "date": "07 Oct 2022,Friday",
+      "id": "2597116040174052803a89c775ea2dcf",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665132119302_202.jpg?",
+      "readMoreUrl": "https://www.reuters.com/business/finance/credit-suisse-buy-back-3-bln-debt-securities-2022-10-07/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "02:17 pm",
+      "title": "Credit Suisse to buy back $3 billion debt to reassure investors",
+      "url": "https://www.inshorts.com/en/news/credit-suisse-to-buy-back-$3-billion-debt-to-reassure-investors-1665132459463"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Adani Group Chairman Gautam Adani will invest ₹65,000 crore in Rajasthan over the next five to seven years and create more than 40,000 direct and indirect jobs. Adani said his group has already invested over ₹35,000 crore across multiple sectors in Rajasthan. Adani Group also achieved commercial operations of the world's largest wind-solar hybrid power plant in Rajasthan, he added.",
+      "date": "07 Oct 2022,Friday",
+      "id": "c334dcdb476543f594bdce55bc15777d",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/10_oct/7_fri/img_1665135934439_196.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/cities/jaipur-news/gehlot-on-stage-gautam-adani-vows-65-000-cr-investments-40k-jobs-in-rajasthan-101665130540480-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "04:21 pm",
+      "title": "Gautam Adani to invest ₹65,000 cr in Rajasthan, create 40,000 jobs",
+      "url": "https://www.inshorts.com/en/news/gautam-adani-to-invest-₹65000-cr-in-rajasthan-create-40000-jobs-1665139879425"
+    }
+  ],
+  "success": true
+}

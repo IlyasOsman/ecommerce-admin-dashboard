@@ -1,13 +1,13 @@
-import React from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { BsCurrencyDollar } from 'react-icons/bs';
 import { GoPrimitiveDot } from 'react-icons/go';
 import { IoIosMore } from 'react-icons/io';
 import { DropDownListComponent } from '@syncfusion/ej2-react-dropdowns';
 
 import { Stacked, Pie, Button, LineChart, SparkLine  } from '../components';
-import { earningData, TeamBudget, recentTransactions, weeklyStats, dropdownData, SparklineAreaData, ecomPieChartData } from '../data/dummy';
+import { earningData, TeamBudget, recentTransactions, weeklyStats, dropdownData, SparklineAreaData, ecomPieChartData, newsApi } from '../data/dummy';
+import product from '../data/product9.jpg'
 import { useStateContext } from '../contexts/ContextProvider';
-import product9 from '../data/product9.jpg';
 
 const DropDown = ({ currentMode }) => (
   <div className="w-28 border-1 border-color px-2 py-1 rounded-md">
@@ -17,6 +17,41 @@ const DropDown = ({ currentMode }) => (
 
 const Ecommerce = () => {
   const { currentColor, currentMode } = useStateContext();
+  const [news, setNews] = useState([]);
+
+  /* Fetch Business news Data */
+  // Reached usage limit => const api_url = "https://api.marketaux.com/v1/news/all?symbols=TSLA%2CAMZN%2CMSFT&filter_entities=true&language=en&api_token=gC9mKzB6aKV01A75SGT9iERDeeTVDUcf9oBsiMXI";
+
+  //const api_url ="https://inshorts.deta.dev/news?category=business";
+  //const api_url = newsApi;
+
+  // const fetchData = () => {
+  //   fetch(`${api_url}`)
+  //     .then(resp => resp.json())
+  //     .then((news) => {
+  //     console.log(news)
+  //       setNews(news);
+  //     }, 3000)
+  //     .catch(error => console.log(error)), 5000)
+  // }
+
+  const ref = useRef(null);
+
+  useEffect(() => {
+      ref.current = setInterval(() =>
+      setNews(newsApi)
+      , 5000)
+      console.log(newsApi);
+      return () => {
+        if(ref.current){
+          clearInterval(ref.current)
+        }
+      }
+  }, [])
+
+  // const newsData = news?.data[Math.floor(Math.random() * 20)];
+  // console.log(newsData);
+  
 
   return (
     <div className="mt-24">
@@ -237,7 +272,7 @@ const Ecommerce = () => {
 
         </div>
 
-
+              {/* Budget card section */}
         <div className="w-400 bg-white dark:text-gray-200 dark:bg-secondary-dark-bg rounded-2xl p-6 m-3">
           <div className="flex justify-between">
             <p className="text-xl font-semibold">Team Budget</p>
@@ -294,7 +329,9 @@ const Ecommerce = () => {
           </div>
         </div>
 
-        {/* Fetch Business news Data */}
+
+        {/* Daily news section */}
+
 
         <div className="w-400 bg-white dark:text-gray-200 dark:bg-secondary-dark-bg rounded-2xl p-6 m-3">
           <div className="flex justify-between">
@@ -306,23 +343,29 @@ const Ecommerce = () => {
           <div className="mt-10">
             <img
               className="md:w-96 h-50 "
-              src={product9}
-              alt=""
+              //src={newsData.imageUrl}
+              src={product}
+              alt="image"
             />
             <div className="mt-8">
-              <p className="font-semibold text-lg">React 18 coming soon!</p>
-              <p className="text-gray-400 ">By Johnathan Doe</p>
-              <p className="mt-8 text-sm text-gray-400">
-                This will be the small description for the news you have shown
-                here. There could be some great info.
+              <p className="font-semibold text-lg">Check out this news!</p>
+              <p className="text-gray-400 ">By  John SomeOne 
+              {/* {newsData.author} */}
               </p>
-              <div className="mt-3">
-                <Button
+              <p className="mt-8 text-sm text-gray-400">
+                This will be the small description for the news you have shown here. There could be some great info.
+                {/* {newsData.title} */}
+              </p>
+              <div className="mt-3" target="_blank">
+                {/* <a href={newsData.url}> */}
+                  <Button
                   color="white"
                   bgColor={currentColor}
                   text="Read More"
                   borderRadius="10px"
                 />
+                {/* </a> */}
+                
               </div>
             </div>
           </div>
