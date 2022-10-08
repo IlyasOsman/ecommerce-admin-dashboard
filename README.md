@@ -4,7 +4,7 @@
 
 ### 0. Introduction
 
-The **E-commerce Admin-Dashboard** website application is a [Moringa School](https://moringaschool.com/) phase 2 react.js project.
+The [**E-commerce Admin-Dashboard**](https://ecommerce-admin-dashboard-khaki.vercel.app/) website application is a [Moringa School](https://moringaschool.com/) phase 2 react.js project.
 
 ### 1. Usage of Application
 
@@ -73,10 +73,14 @@ The following technologies was used to build the front-end of applications <br/>
 
 ![Light mode](./light.png)
 
-### 12. LICENSE
+### 12. [Live Site](https://ecommerce-admin-dashboard-khaki.vercel.app/)
+
+&check; Here is [Live Site](https://ecommerce-admin-dashboard-khaki.vercel.app/) deployed via Vercel.
+
+### 13. LICENSE
 &check; Here [MIT](./MIT) is project license.
 
-### 13. Author 
+### 14. Author 
 
  &check; Ilyas Ali
         <br/>
