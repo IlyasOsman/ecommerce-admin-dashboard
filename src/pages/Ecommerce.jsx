@@ -40,14 +40,14 @@ const Ecommerce = () => {
   useEffect(() => {
       ref.current = setInterval(() =>
       setNews(newsApi)
-      , 5000)
+      , 3000)
       console.log(newsApi);
       return () => {
         if(ref.current){
           clearInterval(ref.current)
         }
       }
-  }, [])
+  }, [news])
 
   // const newsData = news?.data[Math.floor(Math.random() * 20)];
   // console.log(newsData);
@@ -343,28 +343,30 @@ const Ecommerce = () => {
           <div className="mt-10">
             <img
               className="md:w-96 h-50 "
-              //src={newsData.imageUrl}
+              // src={newsData.imageUrl}
               src={product}
               alt="image"
             />
             <div className="mt-8">
               <p className="font-semibold text-lg">Check out this news!</p>
-              <p className="text-gray-400 ">By  John SomeOne 
+              <p className="text-gray-400 ">By John Smooth
               {/* {newsData.author} */}
               </p>
-              <p className="mt-8 text-sm text-gray-400">
-                This will be the small description for the news you have shown here. There could be some great info.
-                {/* {newsData.title} */}
+              <p className="mt-3 text-sm text-gray-400"> 
+              {/* {newsData.title} */}
+              {/* This will serve as a brief summary of the news you have displayed here. There may be some useful information. */}
+              Tesla shares fall nearly 2% after Elon Musk revives Twitter deal
               </p>
-              <div className="mt-3" target="_blank">
-                {/* <a href={newsData.url}> */}
+              <div className="mt-3">
+                {/* {newsData.url} */}
+                <a href={"https://www.inshorts.com/en/news/after-elon-musk-revived-twitter-deal-tesla-shares-fell-nearly-2-1665141848385"} target="_blank">
                   <Button
                   color="white"
                   bgColor={currentColor}
                   text="Read More"
                   borderRadius="10px"
                 />
-                {/* </a> */}
+                </a>
                 
               </div>
             </div>
