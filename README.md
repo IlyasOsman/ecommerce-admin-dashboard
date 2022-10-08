@@ -1,4 +1,4 @@
-## PHASE 1 PROJECT
+## PHASE 2 REACT PROJECT
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/IlyasOsman/)
 
@@ -33,13 +33,7 @@ The following technologies was used to build the front-end of applications <br/>
 &check; Tailwind <br/>
 &check; Syncfusion UI <br/>
 
-### 3. [Live site](https://ilyasosman.github.io/cryptoPesa-website/)
-&nbsp; Here [www.cryptopesamarket.com](https://ilyasosman.github.io/cryptoPesa-website/) is cryptopesa live website accessible to the public<br/>
-
-
-
-
-### 4. Features
+### 3. Features
 &check; The website has the following. <br/>
 &nbsp; &nbsp; &check; A Dark/Light mode.<br/>
 &nbsp; &nbsp; &check; Mobile responsive.<br/>
@@ -47,15 +41,46 @@ The following technologies was used to build the front-end of applications <br/>
 &nbsp; &nbsp; &check; A Calendar app.<br/>
 &nbsp; &nbsp; &check; A charts.<br/>
 
-### 6. LICENSE
+### 4. Home page 
+
+![Home Page](./homepage.png)
+
+### 5. Orders page
+
+![Orders](./orders.png)
+
+### 6. Employees page
+
+![Employees](./employee.png)
+
+### 7. Customers pages
+
+![customers](./customers.png)
+
+### 8. Calenders
+
+![calenders](./calendar.png)
+
+### 9. Line Charts
+
+![Line charts](./line.png)
+
+### 10. Financial Charts
+
+![Financial](./financialgraph.png)
+
+### 11. Light mode
+
+![Light mode](./light.png)
+
+### 12. LICENSE
 &check; Here [MIT](./MIT) is project license.
 
-### 7. Author 
+### 13. Author 
 
  &check; Ilyas Ali
         <br/>
         &nbsp; &nbsp; &check; [LinkedIn](https://www.linkedin.com/in/ilyas-)
         <br/>
-        &nbsp; &nbsp; &check; [Twitter](https://twitter.com/iOs__man)
-
-<p>Like project? Give me a star.</p>
+        &nbsp; &nbsp; &check; [Twitter](https://twitter.com/ilyasali_)
+<br/>
