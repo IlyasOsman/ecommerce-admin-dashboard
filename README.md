@@ -77,6 +77,19 @@ The following technologies was used to build the front-end of applications <br/>
 
 &check; Here is [Live Site](https://ecommerce-admin-dashboard-khaki.vercel.app/) deployed via Vercel.
 
+### 13. Themes
+ #### Theme 1
+ ![theme](./theme1.png)
+
+ #### Theme 2
+ ![theme](./theme2.png)
+
+ #### Theme 3
+ ![theme](./theme3.png)
+
+ #### Theme 4
+ ![theme](./theme4.png)
+
 ### 13. LICENSE
 &check; Here [MIT](./MIT) is project license.
 
