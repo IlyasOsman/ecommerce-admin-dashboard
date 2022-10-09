@@ -97,7 +97,7 @@ The following technologies was used to build the front-end of applications <br/>
 
  &check; Ilyas Ali
         <br/>
-        &nbsp; &nbsp; &check; [LinkedIn](https://www.linkedin.com/in/ilyas-)
+        &nbsp; &nbsp; &check; [LinkedIn](https://www.linkedin.com/in/ilyas-ali-74aa031b7)
         <br/>
-        &nbsp; &nbsp; &check; [Twitter](https://twitter.com/ilyasali_)
+        &nbsp; &nbsp; &check; [Twitter](https://twitter.com/ilyasAli_)
 <br/>
