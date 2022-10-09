@@ -90,10 +90,10 @@ The following technologies was used to build the front-end of applications <br/>
  #### Theme 4
  ![theme](./theme4.png)
 
-### 13. LICENSE
+### 14. LICENSE
 &check; Here [MIT](./MIT) is project license.
 
-### 14. Author 
+### 15. Author 
 
  &check; Ilyas Ali
         <br/>
